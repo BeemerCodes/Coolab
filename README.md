@@ -1,6 +1,8 @@
 # 🚀 Coolab
 
 > **Laboratório colaborativo para alunos aprendem, praticam e desenvolvem projetos reais em um ambiente aberto e amigável.**
+> 
+> [Grupo no Whatsapp <img src="/Readme/zap.png" width="24">](https://chat.whatsapp.com/FALU0i2QISf1cDQI69X3HN)
 
 ---
 
@@ -213,7 +215,6 @@ Nome - GitHub: @seu-usuario
 ## 📅 Data
 
 Dezembro de 2025
-```
 
 ---
 
