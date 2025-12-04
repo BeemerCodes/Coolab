@@ -2,7 +2,9 @@
 
 > **Laboratório colaborativo para alunos aprendem, praticam e desenvolvem projetos reais em um ambiente aberto e amigável.**
 > 
-> [Grupo no Whatsapp <img src="/Readme/zap.png" width="24">](https://chat.whatsapp.com/FALU0i2QISf1cDQI69X3HN)
+> ## <img src="/Readme/zap.png" width="24"> Nosso grupo no Whatsapp [   Clique aqui   ](https://chat.whatsapp.com/FALU0i2QISf1cDQI69X3HN)
+>
+>  ## <img src="/Readme/discord.png" width="24"> Nosso grupo no Discord [   Clique aqui   ](https://discord.gg/VpZyV3ps)
 
 ---
 
